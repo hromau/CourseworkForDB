@@ -12,7 +12,6 @@ namespace CourseworkForDB
 {
     public partial class AttachForm : Form
     {
-
         public static string textBox { get; set; }
         public static List<string> comboBoxList { get; set; }
         public static bool c = false;
